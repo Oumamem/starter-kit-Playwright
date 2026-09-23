@@ -1,0 +1,52 @@
+{
+    "newCustomer": {
+      "email": "test.accept.auto.fr.#UNIQUETOKEN#@maildrop.cc",
+      "password": "auTO.2021",
+      "title": "mr",
+      "first.name": "Auto",
+      "last.name": "MateFR#RANDOMSTRING#",
+      "address.line.1": "30 AVENUE MONTAIGNE",
+      "postal.code": "75008",
+      "city": "PARIS",
+      "country.code": "FR",
+      "phone": "+33198374655",
+      "birthdate.day": "01",
+      "birthdate.month": "02",
+      "birthdate.year": "1980" 
+    },
+    "standardCustomer": {
+      "email": "test.accept.auto.fr@maildrop.cc",
+      "password": "auTO.2021",
+      "title": "mr",
+      "firstName": "Auto",
+      "lastName": "Mate",
+      "addressLine1": "30 AVENUE MONTAIGNE",
+      "postalCode": "75008",
+      "city": "PARIS",
+      "countryCode": "FR",
+      "phone": "+33198374655",
+      "birthdate": {
+        "day": "01",
+        "month": "02",
+        "year": "1980"
+      }
+    },
+    "guestCustomer": {
+      "email": "test.accept.guest.auto.fr.#UNIQUETOKEN#@maildrop.cc",
+      "password": "_NA_",
+      "title": "mr",
+      "firstName": "Auto",
+      "lastName": "Mate",
+      "addressLine1": "30 Avenue Montaigne",
+      "postalCode": "75008",
+      "city": "PARIS",
+      "countryCode": "FR",
+      "phone": "+33198374655",
+      "birthdate": {
+        "day": "01",
+        "month": "02",
+        "year": "1980"
+      }
+    }
+}
+  

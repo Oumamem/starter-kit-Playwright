@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "target": "ES6",
+        "module": "CommonJS",
+        "strict": true,
+        "esModuleInterop": false,
+        "outDir": "./outputs",
+        "noImplicitAny": false,
+        "baseUrl": "."
+    },
+    "include": [
+        "./src/**/*.ts",
+        "./src/resources/datasources/*", 
+        "./resources/config/*"    
+    ],
+    "exclude": [
+        "node_modules",
+        "outputs"
+    ]
+}
